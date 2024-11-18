@@ -5,7 +5,7 @@ import { Button } from "@/components/ui/button";
 import { Github, Linkedin, Mail, Phone, ExternalLink, Sun, Moon } from 'lucide-react';
 
 const Portfolio = () => {
-  const [theme, setTheme] = useState('light');
+  const [theme, setTheme] = useState('dark');
 
   // Toggle theme and update document class
   const toggleTheme = () => {
@@ -31,7 +31,18 @@ const Portfolio = () => {
         "Integrated cloud functions for real-time updates"
       ],
       tech: ["React.js", "Node.js", "Firebase", "Git"],
-      github: "https://github.com/RKOKA209/MyTree"
+      github: "https://github.com/bdgillis/CS307-myTree"
+    },
+    {
+      title: "Task Master",
+      description: "A Basic Todo list website that allow users to trake their progress on all their different activities built with flask",
+      details: [
+        "Allows users to create tasks with due dates",
+        "Endables users to update their tasks and change level of progress on a given task",
+        "Sorts the task in order of due dates to make it easy for the user"
+      ],
+      tech: ["Flask", "SQLAlchemy", "Git"],
+      github: "https://github.com/rishabkoka/Task-Master"
     }
     // {
     //   title: "Simple C Compiler",
