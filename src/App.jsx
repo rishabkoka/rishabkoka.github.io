@@ -43,6 +43,17 @@ const Portfolio = () => {
       ],
       tech: ["Flask", "SQLAlchemy", "Git"],
       github: "https://github.com/rishabkoka/Task-Master"
+    },
+    {
+      title: "Personal Portfolio",
+      description: "A Basic Todo list website that allow users to trake their progress on all their different activities built with flask",
+      details: [
+        "Allows users to create tasks with due dates",
+        "Endables users to update their tasks and change level of progress on a given task",
+        "Sorts the task in order of due dates to make it easy for the user"
+      ],
+      tech: ["Vite", "Node.js", "Git"],
+      github: "https://github.com/rishabkoka/rishabkoka.github.io"
     }
     // {
     //   title: "Simple C Compiler",
