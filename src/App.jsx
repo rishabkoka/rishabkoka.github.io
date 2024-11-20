@@ -35,7 +35,7 @@ const Portfolio = () => {
     },
     {
       title: "Task Master",
-      description: "A Basic Todo list website that allow users to trake their progress on all their different activities built with flask",
+      description: "A Basic Todo list website that allow users to trake their progress on all their different activities built with flask.",
       details: [
         "Allows users to create tasks with due dates",
         "Endables users to update their tasks and change level of progress on a given task",
@@ -46,11 +46,11 @@ const Portfolio = () => {
     },
     {
       title: "Personal Portfolio",
-      description: "A Basic Todo list website that allow users to trake their progress on all their different activities built with flask",
+      description: "A responsive personal website highlighting my academic journey, work experience, and project portfolio with links to GitHub repositories.",
       details: [
-        "Allows users to create tasks with due dates",
-        "Endables users to update their tasks and change level of progress on a given task",
-        "Sorts the task in order of due dates to make it easy for the user"
+        "Organized into three sections: Projects, Experiences, and Education, showcasing my background and skills",
+        "Hosted on GitHub Pages, offering accessibility and seamless navigation across devices",
+        "Responsive Design: Ensures seamless navigation across devices, including desktops, tablets, and mobile phones"
       ],
       tech: ["Vite", "Node.js", "Git"],
       github: "https://github.com/rishabkoka/rishabkoka.github.io"
