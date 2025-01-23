@@ -1,8 +1,11 @@
-# React + Vite
+URL: https://rishabkoka.github.io/
+# Instructions for Running the code:
+1. npm run dev - For running the test environment
+2. npm run deploy - For updating the file to deploy to GitHub pages
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Pages
+![Screenshot 2024-11-23 202133](https://github.com/user-attachments/assets/2ac33c76-d221-4d76-909a-67419e1a2518)
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Sources
+1. https://medium.com/@aishwaryaparab1/deploying-vite-deploying-vite-app-to-github-pages-166fff40ffd3
+2. https://www.youtube.com/watch?v=o5g-lUuFgpg
