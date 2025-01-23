@@ -293,7 +293,7 @@ const Portfolio = () => {
                     <ul className="list-disc pl-6">
                       <li className="text-gray-600 dark:text-gray-400">Major in Computer Science</li>
                       <li className="text-gray-600 dark:text-gray-400">Minor in Computer Information Technology</li>
-                      <li className="text-gray-600 dark:text-gray-400">GPA: 3.51/4.0</li>
+                      <li className="text-gray-600 dark:text-gray-400">GPA: 3.52/4.0</li>
                       <li className="text-gray-600 dark:text-gray-400">Dean's List 2021-2024</li>
                     </ul>
                   </div>
