@@ -112,7 +112,7 @@ const Portfolio = () => {
         variant="ghost"
         size="icon"
         onClick={toggleTheme}
-        className="fixed top-4 right-4"
+        className=""
       >
         {theme === 'light' ? (
           <Sun className="h-5 w-5" />
