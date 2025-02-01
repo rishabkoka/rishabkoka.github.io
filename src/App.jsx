@@ -106,13 +106,13 @@ const Portfolio = () => {
   ];
 
   return (
-    <div className="min-h-screen bg-white dark:bg-gray-900 text-gray-900 dark:text-white transition-colors duration-200 p-8">
+    <div className="relative min-h-screen bg-white dark:bg-gray-900">
       {/* Theme Toggle Button */}
       <Button
         variant="ghost"
         size="icon"
         onClick={toggleTheme}
-        className=""
+        className="absolute top-4 right-4"
       >
         {theme === 'light' ? (
           <Sun className="h-5 w-5" />
